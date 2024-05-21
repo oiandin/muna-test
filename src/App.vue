@@ -2,13 +2,13 @@
   import Nav from './components/Navbar.vue';
   import Login from './components/Login.vue';
 
-  export default {
-    name: 'App',
-    components: {
-      Nav,
-      Login
-    }
-  };
+      export default {
+        name: 'App',
+        components: {
+          Nav,
+          Login
+        }
+      };
 </script>
 
 <template>

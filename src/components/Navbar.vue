@@ -39,7 +39,7 @@
         </ul>
         <ul class="nav navbar-nav navbar-right">
           <li>
-            <a href="./Registration.vue"
+            <a href="./Signup.vue"
               ><span class="glyphicon glyphicon-user"></span> Sign Up</a
             >
           </li>

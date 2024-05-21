@@ -42,5 +42,3 @@
     </CardContent>
   </Card>
 </template>
-
-<style src="./style.css"></style>
